@@ -1,0 +1,17 @@
+Puedes generarme un código en HTML y ccs y Java script que me permita agregar datos a los campos fecha, proveedor, telefono, quien lo envia, numero de guia, cliente y gestionar mis envíos a servicio técnico de mercadería, generar alertas cuando pasen 15 dias y luego al mes de estar en  el taller, agregar un boton de finalizado y cambio de estatus a Listo y fecha de listo, formato de la fecha es dia mes y año y agregar campo de observaciones para cada envio y que el contenido de la tabla se guarde de forma local, con boton de exportar a excel, que tenga un boton de limpiar los datos de la tabla con advertencia de que guarde la informacion que se va a borrar todo
+
+
+Explicación:
+Agregar datos: Puedes introducir datos como proveedor, teléfono, quién lo envía, número de guía, cliente, fecha de envío y observaciones en el formulario.
+
+Generar alertas: Se generan alertas cuando los envíos hayan pasado 15 días o más de un mes en el taller.
+
+Finalizar envío: Un botón "Finalizar" cambiará el estado del envío a "Listo" y registrará la fecha de finalización.
+
+Formato de fecha: Las fechas se mostrarán en el formato día/mes/año.
+
+Almacenamiento local: Los datos se guardan en LocalStorage, permitiendo que persistan entre sesiones de navegación.
+
+Exportar a Excel: Un botón "Exportar a Excel" permite descargar el contenido de la tabla en un archivo Excel.
+
+Limpiar datos: Un botón "Limpiar Datos" que muestra una advertencia antes de borrar todos los datos guardados
